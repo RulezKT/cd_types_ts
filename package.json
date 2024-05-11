@@ -1,0 +1,11 @@
+{
+  "name": "cd_types_ts",
+  "module": "cd_types.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
